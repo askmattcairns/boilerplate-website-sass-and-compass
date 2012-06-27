@@ -11,14 +11,6 @@
     media="screen"  
     charset="utf-8">
   
-  <link 
-    rel="stylesheet" 
-    href="_/css/print.css" 
-    type="text/css" 
-    media="print" 
-    charset="utf-8">
-  
-  
   <!-- Modernizr, mainly for html5 shiv -->
   <script 
     src="_/js/libs/modernizr.js" 
