@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv=Content-type content="text/html; charset=utf-8">
-	<title>Facebook Tab Boilerplate</title>
+	<title>HTML5 SASS Boilerplate</title>
   
   <link 
     rel="stylesheet" 
